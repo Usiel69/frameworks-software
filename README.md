@@ -1,2 +1,2 @@
 # frameworks-software
-Luis Usiel Cota Rodrigue
+Luis Usiel Cota Rodriguez
